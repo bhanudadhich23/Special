@@ -1,0 +1,29 @@
+img {
+  height: 40vh;
+  width: 50vw;
+  position: relative;
+  bottom: 200px;
+  left: 20px;
+}
+div i {
+  position: relative;
+  right: 30%;
+  bottom: 50px;
+  color: red;
+}
+button {
+  margin-right: 100px;
+  margin-left: 10px;
+
+  position: relative;
+  bottom: 150px;
+}
+#no {
+  position: relative;
+  top: 615px;
+  height: 40px;
+  right: 10px;
+}
+.shayri {
+  color: red;
+}
