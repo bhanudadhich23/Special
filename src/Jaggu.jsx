@@ -51,7 +51,8 @@ function Jaggu() {
     <>
       <div>
         <img src={Prop} alt="Propose" />
-        <i>Jaggu 😊</i>
+        <i>this is from your door ka dost bhanu &nbsp;</i>
+        <i>Jaggu 😊 </i>
       </div>
       <button onClick={yes} id="yes">
         Yes
